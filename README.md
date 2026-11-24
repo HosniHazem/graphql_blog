@@ -3,8 +3,6 @@
 A headless blog frontend built with Next.js, rendering content from a Hygraph
 (formerly GraphCMS) GraphQL backend.
 
-[Live site](https://nextjs-plum-five-51.vercel.app/)
-
 ## What it does
 
 - Posts, categories and author pages served from a hosted GraphQL CMS
